@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "This Wonderful World",
+  "base_artist": "DISH//",
+  "createdAt": "2025-12-09T07:44:35.861400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Wonderful World",
+      "artist": "A.C.T",
+      "has_synced": false,
+      "path": "select/01_This_Wonderful_World_A.C.T.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tomorrow (KonoSuba: God's Blessing on This Wonderful World!)",
+      "artist": "Mizuho Yasuda",
+      "has_synced": false,
+      "path": "select/02_Tomorrow_(KonoSuba__God's_Blessing_on_This_Wonderful_World!)_Mizuho_Yasuda.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Wonderful World",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/03_This_Wonderful_World_DISH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Wonderful World",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_01_This_Wonderful_World_DISH.txt"
+    }
+  ]
+}
